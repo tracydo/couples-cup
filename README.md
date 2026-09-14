@@ -2,7 +2,9 @@
 
 The website for our 2026 fantasy football Couples League.
 
-**Live site:** _(add your Vercel URL here)_
+**Live site:** https://couples-cup-lilac.vercel.app/
+
+Deployed via Vercel.
 
 ## How it works
 
